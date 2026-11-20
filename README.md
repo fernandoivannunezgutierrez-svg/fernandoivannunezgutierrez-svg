@@ -28,15 +28,7 @@ Me enfoco en el **diseño y administración de bases de datos relacionales (Post
 
 ### 📌 Proyectos Destacados
 
-1. **App Multiplataforma “Recetario” (*Raccolta di ricette*)** — `C#` · `.NET MAUI` · `XAML` · `MVVM`
-   Aplicación móvil y de escritorio enfocada en experiencia de usuario (UI/UX), navegación fluida y arquitectura limpia.
-
-2. **Sistema de Gestión y Modelamiento en PostgreSQL** — `PostgreSQL` · `Neon.tech` · `pgAdmin 4` · `PlantUML`
-   Modelamiento entidad-relación, normalización, restricciones de integridad y consultas SQL sobre nube serverless.
-
-3. **Prototipo de Sistemas Digitales en FPGA** — `SystemVerilog` · `Xilinx Vivado`
-   Diseño, simulación mediante testbenches y síntesis digital sobre placa Basys 3.
-
+1.** En proceso
 ---
 
 ### 📫 Contacto
